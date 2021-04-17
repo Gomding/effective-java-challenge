@@ -1,0 +1,8 @@
+item1_20210417/StaticFactoryMethodEx1.java
+ item1_20210417.StaticFactoryMethodEx1
+item1_20210417/StaticFactoryMethodEx2.java
+ item1_20210417.MyClass
+ item1_20210417.StaticFactoryMethodEx2
+item1_20210417/StaticFactoryMethodEx3.java
+ item1_20210417.Person
+ item1_20210417.StaticFactoryMethodEx3
