@@ -39,3 +39,35 @@ item3_20210419/MyClass4.java
  item3_20210419.MyClass4
 item4_20210420/PrivateConstructorEx1.java
  item4_20210420.PrivateConstructorEx1
+item4_20210420/PrivateConstructorEx2.java
+ item4_20210420.MyAbstractClass
+ item4_20210420.MyChildClass
+ item4_20210420.PrivateConstructorEx2
+item5_20210422/DependencyObjectInjectionEx1.java
+ item5_20210422.DependencyObjectInjectionEx1
+ item5_20210422.EnglishDictionary
+ item5_20210422.KoreanDictionary
+ item5_20210422.Lexicon
+ item5_20210422.SpellCheckTypeSingleton
+ item5_20210422.SpellCheckTypeUtilClass
+item4_20210420/UtilityClass.java
+ item4_20210420.UtilityClass
+item5_20210422/DependencyObjectInjectionEx2.java
+ item5_20210422.DependencyObjectInjectionEx2
+ item5_20210422.SpellChecker
+ item5_20210422.SpellChecker2
+ item5_20210422.SpellRespository
+item6_20210422/GoodPatternEx3.java
+ item6_20210422.GoodPatternEx3
+item6_20210422/AntiPatternEx2.java
+ item6_20210422.AntiPatternEx2
+item6_20210422/AntiPatternEx3.java
+ item6_20210422.AntiPatternEx3
+item6_20210422/AntiPatternEx4.java
+ item6_20210422.AntiPatternEx4
+item6_20210422/GoodPatternEx1.java
+ item6_20210422.GoodPatternEx1
+item6_20210422/GoodPatternEx4.java
+ item6_20210422.GoodPatternEx4
+item6_20210422/AntiPatternEx1.java
+ item6_20210422.AntiPatternEx1
