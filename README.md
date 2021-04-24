@@ -18,3 +18,4 @@
 ### [아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 주입해라](https://parkadd.tistory.com/75)
 ### [아이템 6. 불필요한 객체 생성을 피하라](https://parkadd.tistory.com/76)
 ### [아이템 7. 다쓴 객체 참조를 해제하라](https://parkadd.tistory.com/78) 
+### [아이템 8. finalizer 와 cleaner 사용을 피하라](https://parkadd.tistory.com/manage/posts/)
