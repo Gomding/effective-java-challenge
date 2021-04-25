@@ -61,13 +61,27 @@ item6_20210422/GoodPatternEx3.java
  item6_20210422.GoodPatternEx3
 item6_20210422/AntiPatternEx2.java
  item6_20210422.AntiPatternEx2
-item6_20210422/AntiPatternEx3.java
- item6_20210422.AntiPatternEx3
+item6_20210422/AntiPatternEx1.java
+ item6_20210422.AntiPatternEx1
 item6_20210422/AntiPatternEx4.java
  item6_20210422.AntiPatternEx4
 item6_20210422/GoodPatternEx1.java
  item6_20210422.GoodPatternEx1
 item6_20210422/GoodPatternEx4.java
  item6_20210422.GoodPatternEx4
-item6_20210422/AntiPatternEx1.java
- item6_20210422.AntiPatternEx1
+item9_20210425/TryFinallyEx1.java
+ item9_20210425.TryFinallyEx1
+item9_20210425/TryWithResourceEx2.java
+ item9_20210425.TryWithResourceEx2
+item6_20210422/AntiPatternEx3.java
+ item6_20210422.AntiPatternEx3
+item9_20210425/TryFinallyEx2.java
+ item9_20210425.TryFinallyEx2
+item9_20210425/MyCloseableClass.java
+ item9_20210425.MyCloseableClass
+item9_20210425/TryWithResourceEx1.java
+ item9_20210425.TryWithResourceEx1
+item7_20210424/MyStack.java
+ item7_20210424.MyStack
+item9_20210425/SuppressedTest.java
+ item9_20210425.SuppressedTest

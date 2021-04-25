@@ -19,3 +19,4 @@
 ### [아이템 6. 불필요한 객체 생성을 피하라](https://parkadd.tistory.com/76)
 ### [아이템 7. 다쓴 객체 참조를 해제하라](https://parkadd.tistory.com/78) 
 ### [아이템 8. finalizer 와 cleaner 사용을 피하라](https://parkadd.tistory.com/manage/posts/)
+### [아이템 9. try-finally 보다는 try-with-resource를 사용하라](https://parkadd.tistory.com/80)
