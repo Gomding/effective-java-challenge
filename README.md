@@ -6,6 +6,8 @@
 * 1개의 아이템 읽기
 * 코드로 실습해보기
 * 간단한 블로그 포스팅
+  * 책 내용을 요약 정리 
+  * 요약 정리만 하는것보다 헷갈렷던 부분을 풀이하는 방식으로 정리하면 더 효과적일것이라 생각
 * README 정리한 내용 작성
 * 깃허브 커밋 등록
 
@@ -20,3 +22,4 @@
 ### [아이템 7. 다쓴 객체 참조를 해제하라](https://parkadd.tistory.com/78) 
 ### [아이템 8. finalizer 와 cleaner 사용을 피하라](https://parkadd.tistory.com/manage/posts/)
 ### [아이템 9. try-finally 보다는 try-with-resource를 사용하라](https://parkadd.tistory.com/80)
+### [아이템 10. equals는 일반 규약을 지켜 재정의하라](https://parkadd.tistory.com/84)
