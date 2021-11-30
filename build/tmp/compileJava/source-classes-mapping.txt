@@ -1,12 +1,28 @@
-item1_20210417/StaticFactoryMethodEx3.java
- item1_20210417.Person
- item1_20210417.StaticFactoryMethodEx3
-item1_20210417/StaticFactoryMethodEx2.java
- item1_20210417.MyClass
- item1_20210417.StaticFactoryMethodEx2
-item2_20210418/TelescopingConstructorPatternEx1.java
- item2_20210418.NutritionFacts
- item2_20210418.TelescopingConstructorPatternEx1
+item10_20210501/CanonicalFormEx.java
+ item10_20210501.CanonicalFormEx
+ item10_20210501.CaseInsenstiveStringEx1
+ item10_20210501.CaseInsenstiveStringEx2
+item6_20210422/GoodPatternEx1.java
+ item6_20210422.GoodPatternEx1
+item6_20210422/GoodPatternEx4.java
+ item6_20210422.GoodPatternEx4
+item3_20210419/MyClass2.java
+ item3_20210419.MyClass2
+item2_20210418/BuilderPatternEx1.java
+ item2_20210418.BuilderNutritionFacts
+ item2_20210418.BuilderNutritionFacts$1
+ item2_20210418.BuilderNutritionFacts$Builder
+ item2_20210418.BuilderPatternEx1
+item1_20210417/StaticFactoryMethodEx1.java
+ item1_20210417.StaticFactoryMethodEx1
+item9_20210425/TryFinallyEx2.java
+ item9_20210425.TryFinallyEx2
+item4_20210420/PrivateConstructorEx1.java
+ item4_20210420.PrivateConstructorEx1
+item9_20210425/TryWithResourceEx1.java
+ item9_20210425.TryWithResourceEx1
+item6_20210422/AntiPatternEx2.java
+ item6_20210422.AntiPatternEx2
 item2_20210418/BuilderPatternEx2.java
  item2_20210418.BuilderPatternEx2
  item2_20210418.CalzonePizza
@@ -19,30 +35,6 @@ item2_20210418/BuilderPatternEx2.java
  item2_20210418.Pizza
  item2_20210418.Pizza$Builder
  item2_20210418.Pizza$Topping
-item2_20210418/JavaBeansPatternEx1.java
- item2_20210418.JavaBeansNutritionFacts
- item2_20210418.JavaBeansPatternEx1
-item3_20210419/MyClass2.java
- item3_20210419.MyClass2
-item2_20210418/BuilderPatternEx1.java
- item2_20210418.BuilderNutritionFacts
- item2_20210418.BuilderNutritionFacts$1
- item2_20210418.BuilderNutritionFacts$Builder
- item2_20210418.BuilderPatternEx1
-item1_20210417/StaticFactoryMethodEx1.java
- item1_20210417.StaticFactoryMethodEx1
-item3_20210419/MyClass.java
- item3_20210419.MyClass
-item3_20210419/MyClass3.java
- item3_20210419.MyClass3
-item3_20210419/MyClass4.java
- item3_20210419.MyClass4
-item4_20210420/PrivateConstructorEx1.java
- item4_20210420.PrivateConstructorEx1
-item4_20210420/PrivateConstructorEx2.java
- item4_20210420.MyAbstractClass
- item4_20210420.MyChildClass
- item4_20210420.PrivateConstructorEx2
 item5_20210422/DependencyObjectInjectionEx1.java
  item5_20210422.DependencyObjectInjectionEx1
  item5_20210422.EnglishDictionary
@@ -50,54 +42,70 @@ item5_20210422/DependencyObjectInjectionEx1.java
  item5_20210422.Lexicon
  item5_20210422.SpellCheckTypeSingleton
  item5_20210422.SpellCheckTypeUtilClass
-item4_20210420/UtilityClass.java
- item4_20210420.UtilityClass
 item5_20210422/DependencyObjectInjectionEx2.java
  item5_20210422.DependencyObjectInjectionEx2
  item5_20210422.SpellChecker
  item5_20210422.SpellChecker2
  item5_20210422.SpellRespository
-item6_20210422/GoodPatternEx3.java
- item6_20210422.GoodPatternEx3
-item6_20210422/AntiPatternEx2.java
- item6_20210422.AntiPatternEx2
-item6_20210422/AntiPatternEx1.java
- item6_20210422.AntiPatternEx1
-item6_20210422/AntiPatternEx4.java
- item6_20210422.AntiPatternEx4
-item6_20210422/GoodPatternEx1.java
- item6_20210422.GoodPatternEx1
-item6_20210422/GoodPatternEx4.java
- item6_20210422.GoodPatternEx4
-item9_20210425/TryFinallyEx1.java
- item9_20210425.TryFinallyEx1
-item9_20210425/TryWithResourceEx2.java
- item9_20210425.TryWithResourceEx2
-item6_20210422/AntiPatternEx3.java
- item6_20210422.AntiPatternEx3
-item9_20210425/TryFinallyEx2.java
- item9_20210425.TryFinallyEx2
-item9_20210425/MyCloseableClass.java
- item9_20210425.MyCloseableClass
-item9_20210425/TryWithResourceEx1.java
- item9_20210425.TryWithResourceEx1
-item7_20210424/MyStack.java
- item7_20210424.MyStack
-item10_20210501/CanonicalFormEx.java
- item10_20210501.CanonicalFormEx
- item10_20210501.CaseInsenstiveStringEx1
- item10_20210501.CaseInsenstiveStringEx2
-item10_20210501/TransitiveEx2.java
- item10_20210501.Color2
- item10_20210501.ColorPoint2
- item10_20210501.Point2
- item10_20210501.TransitiveEx2
-item10_20210501/CaseInsenstiveString.java
- item10_20210501.CaseInsenstiveString
+item3_20210419/MyClass3.java
+ item3_20210419.MyClass3
 item10_20210501/TransitiveEx1.java
  item10_20210501.Color
  item10_20210501.ColorPoint
  item10_20210501.Point
  item10_20210501.TransitiveEx1
+item9_20210425/TryWithResourceEx2.java
+ item9_20210425.TryWithResourceEx2
+item6_20210422/AntiPatternEx3.java
+ item6_20210422.AntiPatternEx3
+item9_20210425/MyCloseableClass.java
+ item9_20210425.MyCloseableClass
+item7_20210424/MyStack.java
+ item7_20210424.MyStack
+item4_20210420/UtilityClass.java
+ item4_20210420.UtilityClass
+item2_20210418/TelescopingConstructorPatternEx1.java
+ item2_20210418.NutritionFacts
+ item2_20210418.TelescopingConstructorPatternEx1
+item6_20210422/AntiPatternEx4.java
+ item6_20210422.AntiPatternEx4
+item9_20210425/TryFinallyEx1.java
+ item9_20210425.TryFinallyEx1
+item6_20210422/AntiPatternEx1.java
+ item6_20210422.AntiPatternEx1
+item10_20210501/Person.java
+ item10_20210501.Person
+item1_20210417/StaticFactoryMethodEx2.java
+ item1_20210417.MyClass
+ item1_20210417.StaticFactoryMethodEx2
+item11_20211130/ExampleWithoutHashCode.java
+ item11_20211130.ExampleWithoutHashCode
+ item11_20211130.PhoneNumber
+item10_20210501/CaseInsenstiveString.java
+ item10_20210501.CaseInsenstiveString
+item3_20210419/MyClass4.java
+ item3_20210419.MyClass4
+item6_20210422/GoodPatternEx3.java
+ item6_20210422.GoodPatternEx3
+item4_20210420/PrivateConstructorEx2.java
+ item4_20210420.MyAbstractClass
+ item4_20210420.MyChildClass
+ item4_20210420.PrivateConstructorEx2
+item1_20210417/StaticFactoryMethodEx3.java
+ item1_20210417.Person
+ item1_20210417.StaticFactoryMethodEx3
+item2_20210418/JavaBeansPatternEx1.java
+ item2_20210418.JavaBeansNutritionFacts
+ item2_20210418.JavaBeansPatternEx1
+item3_20210419/MyClass.java
+ item3_20210419.MyClass
+item10_20210501/TransitiveEx2.java
+ item10_20210501.Color2
+ item10_20210501.ColorPoint2
+ item10_20210501.Point2
+ item10_20210501.TransitiveEx2
 item10_20210501/EqualsMethodRules.java
  item10_20210501.EqualsMethodRules
+item11_20211130/ExampleWithHashCode.java
+ item11_20211130.ExampleWithHashCode
+ item11_20211130.PhoneNumber2
