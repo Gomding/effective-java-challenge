@@ -56,6 +56,14 @@ equals는 물리적으로 다른 두 객체를 같다고 할 수 있지만 Objec
     }
 ```
 
+Objects.hashCode 메서드는 다음과 같이 구현되어 있다.
+![img.png](img.png)
+
+> Objects.hashCode 메서드는 내부적으로 Arrays.hashCode 를 사용한다.
+
+Arrays.hashCode는 다음과 같이 구현되어 있다.
+![img_1.png](img_1.png)
+
 파생 필드는 해시코드 계싼에서 제외해도 된다. 즉, 다른 필드로부터 계산해낼 수 있는 필드는 모두 무시해도 된다.   
 equals에 사용되지 않은 필드는 **반드시** 제외 해야한다. -> 제외하지 않으면 두번째 규약을 어기게됨
 
