@@ -10,6 +10,8 @@ public class EqualsMethodRules {
         transitivity();
         System.out.println("===========================");
         consistency();
+        System.out.println("===========================");
+        isNotNull();
     }
 
     // 반사성 : null이 아닌 모든 참조 값 x에 대해 x.equals(x)는 true다.
@@ -65,5 +67,13 @@ public class EqualsMethodRules {
         for (int i = 0; i < 4; i++) {
             System.out.println("일관성 : x.equals(y) 는 " + result2);
         }
+    }
+
+    // null-아님 : null이 아닌 모든 참조 값 x에 대해 x.equals(null)은 false 다.
+    public static void isNotNull() {
+        Object x = new Object();
+        boolean result1 = x.equals(null);
+
+        System.out.println("null-아님 : x.equals(null) 은 " + result1);
     }
 }
