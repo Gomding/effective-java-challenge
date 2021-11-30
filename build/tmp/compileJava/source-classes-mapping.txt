@@ -83,5 +83,21 @@ item9_20210425/TryWithResourceEx1.java
  item9_20210425.TryWithResourceEx1
 item7_20210424/MyStack.java
  item7_20210424.MyStack
-item9_20210425/SuppressedTest.java
- item9_20210425.SuppressedTest
+item10_20210501/CanonicalFormEx.java
+ item10_20210501.CanonicalFormEx
+ item10_20210501.CaseInsenstiveStringEx1
+ item10_20210501.CaseInsenstiveStringEx2
+item10_20210501/TransitiveEx2.java
+ item10_20210501.Color2
+ item10_20210501.ColorPoint2
+ item10_20210501.Point2
+ item10_20210501.TransitiveEx2
+item10_20210501/CaseInsenstiveString.java
+ item10_20210501.CaseInsenstiveString
+item10_20210501/TransitiveEx1.java
+ item10_20210501.Color
+ item10_20210501.ColorPoint
+ item10_20210501.Point
+ item10_20210501.TransitiveEx1
+item10_20210501/EqualsMethodRules.java
+ item10_20210501.EqualsMethodRules
