@@ -15,6 +15,9 @@ public class Person {
     }
 
     // 인텔리제이 interface를 활용해서 만든 equals 메서드
+    // 같은 객체면 true
+    // 비교대상이 null 이거나 클래스가 같지않으면 false
+    // 필드값에 대해서 값이 같은지 검사
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
