@@ -38,6 +38,24 @@ equals는 물리적으로 다른 두 객체를 같다고 할 수 있지만 Objec
       * result = 31 * result + c;
 3. result 반환
 
+```java
+    @Override
+    public int hashCode() {
+        int result = Integer.hashCode(areaCode);
+        result = 31 * result + Integer.hashCode(prefix);
+        result = 31 * result + Integer.hashCode(lineNum);
+        return result;
+    }
+```
+
+**Objects.hashcode** 를 사용해서 해시값을 구하는 방법도 있습니다.
+```java
+    @Override
+    public int hashCode() {
+        return Objects.hash(areaCode, prefix, lineNum);
+    }
+```
+
 파생 필드는 해시코드 계싼에서 제외해도 된다. 즉, 다른 필드로부터 계산해낼 수 있는 필드는 모두 무시해도 된다.   
 equals에 사용되지 않은 필드는 **반드시** 제외 해야한다. -> 제외하지 않으면 두번째 규약을 어기게됨
 
