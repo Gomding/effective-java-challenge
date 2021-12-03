@@ -15,6 +15,10 @@ item2_20210418/BuilderPatternEx1.java
  item2_20210418.BuilderPatternEx1
 item1_20210417/StaticFactoryMethodEx1.java
  item1_20210417.StaticFactoryMethodEx1
+Item12_20211202/PhoneNumber.java
+ Item12_20211202.PhoneNumber
+ Item12_20211202.PotionToStringWithoutFormat
+ Item12_20211202.ToStringWithFormat
 item9_20210425/TryFinallyEx2.java
  item9_20210425.TryFinallyEx2
 item4_20210420/PrivateConstructorEx1.java
@@ -42,11 +46,9 @@ item5_20210422/DependencyObjectInjectionEx1.java
  item5_20210422.Lexicon
  item5_20210422.SpellCheckTypeSingleton
  item5_20210422.SpellCheckTypeUtilClass
-item5_20210422/DependencyObjectInjectionEx2.java
- item5_20210422.DependencyObjectInjectionEx2
- item5_20210422.SpellChecker
- item5_20210422.SpellChecker2
- item5_20210422.SpellRespository
+item11_20211130/ExampleWithHashCode.java
+ item11_20211130.ExampleWithHashCode
+ item11_20211130.PhoneNumber2
 item3_20210419/MyClass3.java
  item3_20210419.MyClass3
 item10_20210501/TransitiveEx1.java
@@ -71,6 +73,11 @@ item6_20210422/AntiPatternEx4.java
  item6_20210422.AntiPatternEx4
 item9_20210425/TryFinallyEx1.java
  item9_20210425.TryFinallyEx1
+item5_20210422/DependencyObjectInjectionEx2.java
+ item5_20210422.DependencyObjectInjectionEx2
+ item5_20210422.SpellChecker
+ item5_20210422.SpellChecker2
+ item5_20210422.SpellRespository
 item6_20210422/AntiPatternEx1.java
  item6_20210422.AntiPatternEx1
 item10_20210501/Person.java
@@ -83,6 +90,8 @@ item11_20211130/ExampleWithoutHashCode.java
  item11_20211130.PhoneNumber
 item10_20210501/CaseInsenstiveString.java
  item10_20210501.CaseInsenstiveString
+item13_20211203/CloneExample.java
+ item13_20211203.CloneExample
 item3_20210419/MyClass4.java
  item3_20210419.MyClass4
 item6_20210422/GoodPatternEx3.java
@@ -106,6 +115,7 @@ item10_20210501/TransitiveEx2.java
  item10_20210501.TransitiveEx2
 item10_20210501/EqualsMethodRules.java
  item10_20210501.EqualsMethodRules
-item11_20211130/ExampleWithHashCode.java
- item11_20211130.ExampleWithHashCode
- item11_20211130.PhoneNumber2
+item13_20211203/CloneExample2.java
+ item13_20211203.Account
+ item13_20211203.AdminAccount
+ item13_20211203.CloneExample2
