@@ -25,6 +25,9 @@ item4_20210420/PrivateConstructorEx1.java
  item4_20210420.PrivateConstructorEx1
 item9_20210425/TryWithResourceEx1.java
  item9_20210425.TryWithResourceEx1
+item13_20211203/CloneExample3.java
+ item13_20211203.CloneExample3
+ item13_20211203.Stack
 item6_20210422/AntiPatternEx2.java
  item6_20210422.AntiPatternEx2
 item2_20210418/BuilderPatternEx2.java
@@ -60,6 +63,11 @@ item9_20210425/TryWithResourceEx2.java
  item9_20210425.TryWithResourceEx2
 item6_20210422/AntiPatternEx3.java
  item6_20210422.AntiPatternEx3
+item5_20210422/DependencyObjectInjectionEx2.java
+ item5_20210422.DependencyObjectInjectionEx2
+ item5_20210422.SpellChecker
+ item5_20210422.SpellChecker2
+ item5_20210422.SpellRespository
 item9_20210425/MyCloseableClass.java
  item9_20210425.MyCloseableClass
 item7_20210424/MyStack.java
@@ -73,11 +81,10 @@ item6_20210422/AntiPatternEx4.java
  item6_20210422.AntiPatternEx4
 item9_20210425/TryFinallyEx1.java
  item9_20210425.TryFinallyEx1
-item5_20210422/DependencyObjectInjectionEx2.java
- item5_20210422.DependencyObjectInjectionEx2
- item5_20210422.SpellChecker
- item5_20210422.SpellChecker2
- item5_20210422.SpellRespository
+item13_20211203/CloneExample2.java
+ item13_20211203.Account
+ item13_20211203.AdminAccount
+ item13_20211203.CloneExample2
 item6_20210422/AntiPatternEx1.java
  item6_20210422.AntiPatternEx1
 item10_20210501/Person.java
@@ -115,7 +122,7 @@ item10_20210501/TransitiveEx2.java
  item10_20210501.TransitiveEx2
 item10_20210501/EqualsMethodRules.java
  item10_20210501.EqualsMethodRules
-item13_20211203/CloneExample2.java
- item13_20211203.Account
- item13_20211203.AdminAccount
- item13_20211203.CloneExample2
+item14_20211204/ComparableExample.java
+ item14_20211204.ComparableExample
+item14_20211204/BigDecimalExample.java
+ item14_20211204.BigDecimalExample
