@@ -122,7 +122,36 @@ item10_20210501/TransitiveEx2.java
  item10_20210501.TransitiveEx2
 item10_20210501/EqualsMethodRules.java
  item10_20210501.EqualsMethodRules
-item14_20211204/ComparableExample.java
- item14_20211204.ComparableExample
 item14_20211204/BigDecimalExample.java
  item14_20211204.BigDecimalExample
+item17_20211207/Money.java
+ item17_20211207.Money
+item18_20211208/ExtendsExample.java
+ item18_20211208.ExtendsExample
+item17_20211207/Money2.java
+ item17_20211207.Money2
+item15_20211205/package2/PublicClass.java
+ item15_20211205.package2.PublicClass
+item15_20211205/Example2.java
+ item15_20211205.Example2
+ item15_20211205.Example2$StaticInnerClass
+item18_20211208/InstrumentedHashSet.java
+ item18_20211208.InstrumentedHashSet
+item15_20211205/Example1.java
+ item15_20211205.Example1
+ item15_20211205.Something1
+ item15_20211205.SomethingInterface1
+item17_20211207/Complex.java
+ item17_20211207.Complex
+item16_20211206/Point.java
+ item16_20211206.Point
+item16_20211206/Example1.java
+ item16_20211206.Example1
+ item16_20211206.Example1$PrivateInnerClass
+ item16_20211206.PackagePrivateClass
+item15_20211205/package1/PackagePrivateClass.java
+ item15_20211205.package1.PackagePrivateClass
+item14_20211204/ComparableExample.java
+ item14_20211204.ComparableExample
+item16_20211206/Point2.java
+ item16_20211206.Point2

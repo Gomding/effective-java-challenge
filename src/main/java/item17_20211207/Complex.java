@@ -56,8 +56,6 @@ public class Complex {
 
     @Override
     public String toString() {
-        BigInteger bigInteger = BigInteger.ONE;
-        bigInteger.add()
         return "Complex{" +
                 "realPart=" + realPart +
                 ", imaginaryPart=" + imaginaryPart +

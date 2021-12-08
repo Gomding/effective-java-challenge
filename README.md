@@ -23,3 +23,4 @@
 ### [아이템 8. finalizer 와 cleaner 사용을 피하라](https://parkadd.tistory.com/manage/posts/)
 ### [아이템 9. try-finally 보다는 try-with-resource를 사용하라](https://parkadd.tistory.com/80)
 ### [아이템 10. equals는 일반 규약을 지켜 재정의하라](https://parkadd.tistory.com/84)
+### 이후는 패키지 내부에 LEARN.md 파일에 정리중
