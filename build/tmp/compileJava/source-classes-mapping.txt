@@ -23,6 +23,8 @@ item18_20211208/InstrumentedHashSet.java
  item18_20211208.InstrumentedHashSet
 item6_20210422/AntiPatternEx2.java
  item6_20210422.AntiPatternEx2
+item28_20211216/Example2.java
+ item28_20211216.Example2
 item15_20211205/Example1.java
  item15_20211205.Example1
  item15_20211205.Something1
@@ -69,6 +71,8 @@ item2_20210418/TelescopingConstructorPatternEx1.java
  item2_20210418.TelescopingConstructorPatternEx1
 item6_20210422/AntiPatternEx4.java
  item6_20210422.AntiPatternEx4
+item27_20211215/UncheckedWarningEx.java
+ item27_20211215.UncheckedWarningEx
 item26_20211215/WildCardEx2.java
  item26_20211215.WildCardEx2
 item6_20210422/AntiPatternEx1.java
@@ -112,6 +116,8 @@ item10_20210501/TransitiveEx2.java
  item10_20210501.TransitiveEx2
 item10_20210501/EqualsMethodRules.java
  item10_20210501.EqualsMethodRules
+item28_20211216/Example1.java
+ item28_20211216.Example1
 item23_20211213/Figure2.java
  item23_20211213.Circle
  item23_20211213.Figure2
@@ -218,5 +224,7 @@ item16_20211206/Point.java
  item16_20211206.Point
 item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
-item27_20211215/UncheckedWarningEx.java
- item27_20211215.UncheckedWarningEx
+item28_20211216/Chooser.java
+ item28_20211216.Chooser
+item28_20211216/GenericChooser.java
+ item28_20211216.GenericChooser
