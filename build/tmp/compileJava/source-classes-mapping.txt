@@ -1,3 +1,5 @@
+item30_20211217/UnionGenericEx.java
+ item30_20211217.UnionGenericEx
 item6_20210422/GoodPatternEx1.java
  item6_20210422.GoodPatternEx1
 item28_20211216/Chooser.java
@@ -163,6 +165,8 @@ item5_20210422/DependencyObjectInjectionEx1.java
  item5_20210422.Lexicon
  item5_20210422.SpellCheckTypeSingleton
  item5_20210422.SpellCheckTypeUtilClass
+item30_20211217/UnionEx.java
+ item30_20211217.UnionEx
 item16_20211206/Example1.java
  item16_20211206.Example1
  item16_20211206.Example1$PrivateInnerClass
@@ -234,3 +238,5 @@ item16_20211206/Point.java
  item16_20211206.Point
 item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
+item30_20211217/UnaryOperatorFactory.java
+ item30_20211217.UnaryOperatorFactory
