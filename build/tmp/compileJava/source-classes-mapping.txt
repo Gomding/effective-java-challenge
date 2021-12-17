@@ -2,8 +2,6 @@ item30_20211217/UnionGenericEx.java
  item30_20211217.UnionGenericEx
 item6_20210422/GoodPatternEx1.java
  item6_20210422.GoodPatternEx1
-item28_20211216/Chooser.java
- item28_20211216.Chooser
 item3_20210419/MyClass2.java
  item3_20210419.MyClass2
 item2_20210418/BuilderPatternEx1.java
@@ -11,30 +9,18 @@ item2_20210418/BuilderPatternEx1.java
  item2_20210418.BuilderNutritionFacts$1
  item2_20210418.BuilderNutritionFacts$Builder
  item2_20210418.BuilderPatternEx1
-item18_20211208/ExtendsExample.java
- item18_20211208.ExtendsExample
 item17_20211207/Money2.java
  item17_20211207.Money2
-item26_20211215/GenericEx2.java
- item26_20211215.GenericEx2
 Item12_20211202/PhoneNumber.java
  Item12_20211202.PhoneNumber
  Item12_20211202.PotionToStringWithoutFormat
  Item12_20211202.ToStringWithFormat
-item26_20211215/WildCardEx1.java
- item26_20211215.WildCardEx1
-item18_20211208/InstrumentedHashSet.java
- item18_20211208.InstrumentedHashSet
 item6_20210422/AntiPatternEx2.java
  item6_20210422.AntiPatternEx2
-item28_20211216/Example2.java
- item28_20211216.Example2
 item15_20211205/Example1.java
  item15_20211205.Example1
  item15_20211205.Something1
  item15_20211205.SomethingInterface1
-item18_20211208/ForwardingSet.java
- item18_20211208.ForwardingSet
 item2_20210418/BuilderPatternEx2.java
  item2_20210418.BuilderPatternEx2
  item2_20210418.CalzonePizza
@@ -56,8 +42,6 @@ item6_20210422/AntiPatternEx3.java
  item6_20210422.AntiPatternEx3
 item14_20211204/ComparableExample.java
  item14_20211204.ComparableExample
-item16_20211206/Point2.java
- item16_20211206.Point2
 item14_20211204/BigDecimalExample.java
  item14_20211204.BigDecimalExample
 item22_20211212/SamsungTvRemoteControl.java
@@ -75,17 +59,11 @@ item2_20210418/TelescopingConstructorPatternEx1.java
  item2_20210418.TelescopingConstructorPatternEx1
 item6_20210422/AntiPatternEx4.java
  item6_20210422.AntiPatternEx4
-item27_20211215/UncheckedWarningEx.java
- item27_20211215.UncheckedWarningEx
-item26_20211215/WildCardEx2.java
- item26_20211215.WildCardEx2
 item6_20210422/AntiPatternEx1.java
  item6_20210422.AntiPatternEx1
 item11_20211130/ExampleWithoutHashCode.java
  item11_20211130.ExampleWithoutHashCode
  item11_20211130.PhoneNumber
-item10_20210501/CaseInsenstiveString.java
- item10_20210501.CaseInsenstiveString
 item13_20211203/CloneExample.java
  item13_20211203.CloneExample
 item15_20211205/Example2.java
@@ -93,103 +71,36 @@ item15_20211205/Example2.java
  item15_20211205.Example2$StaticInnerClass
 item22_20211212/PhysicalConstantsEX1.java
  item22_20211212.PhysicalConstantsEX1
-item19_20211209/Sub.java
- item19_20211209.Sub
-item1_20210417/StaticFactoryMethodEx3.java
- item1_20210417.Person
- item1_20210417.StaticFactoryMethodEx3
-item26_20211215/GenericEx1.java
- item26_20211215.Coin
- item26_20211215.GenericEx1
- item26_20211215.Stamp
 item2_20210418/JavaBeansPatternEx1.java
  item2_20210418.JavaBeansNutritionFacts
  item2_20210418.JavaBeansPatternEx1
 item17_20211207/Complex.java
  item17_20211207.Complex
-item18_20211208/InstrumentedHashSet2.java
- item18_20211208.InstrumentedHashSet2
 item23_20211213/Figure.java
  item23_20211213.Figure
  item23_20211213.Figure$1
  item23_20211213.Figure$Shape
-item10_20210501/TransitiveEx2.java
- item10_20210501.Color2
- item10_20210501.ColorPoint2
- item10_20210501.Point2
- item10_20210501.TransitiveEx2
-item10_20210501/EqualsMethodRules.java
- item10_20210501.EqualsMethodRules
-item28_20211216/Example1.java
- item28_20211216.Example1
 item23_20211213/Figure2.java
  item23_20211213.Circle
  item23_20211213.Figure2
  item23_20211213.Rectangle
-item5_20210422/DependencyObjectInjectionEx2.java
- item5_20210422.DependencyObjectInjectionEx2
- item5_20210422.SpellChecker
- item5_20210422.SpellChecker2
- item5_20210422.SpellRespository
 item22_20211212/TvRemoteControl.java
  item22_20211212.TvRemoteControl
-item10_20210501/CanonicalFormEx.java
- item10_20210501.CanonicalFormEx
- item10_20210501.CaseInsenstiveStringEx1
- item10_20210501.CaseInsenstiveStringEx2
 item6_20210422/GoodPatternEx4.java
  item6_20210422.GoodPatternEx4
 item17_20211207/Money.java
  item17_20211207.Money
-item1_20210417/StaticFactoryMethodEx1.java
- item1_20210417.StaticFactoryMethodEx1
-item9_20210425/TryFinallyEx2.java
- item9_20210425.TryFinallyEx2
 item25_20211214/Test.java
  item25_20211214.Test
  item25_20211214.Test$Dessert
  item25_20211214.Test$Utensil
 item4_20210420/PrivateConstructorEx1.java
  item4_20210420.PrivateConstructorEx1
-item29_20211216/MyStackGeneric.java
- item29_20211216.MyStackGeneric
-item9_20210425/TryWithResourceEx1.java
- item9_20210425.TryWithResourceEx1
 item13_20211203/CloneExample3.java
  item13_20211203.CloneExample3
  item13_20211203.Stack
-item5_20210422/DependencyObjectInjectionEx1.java
- item5_20210422.DependencyObjectInjectionEx1
- item5_20210422.EnglishDictionary
- item5_20210422.KoreanDictionary
- item5_20210422.Lexicon
- item5_20210422.SpellCheckTypeSingleton
- item5_20210422.SpellCheckTypeUtilClass
 item30_20211217/UnionEx.java
  item30_20211217.UnionEx
-item16_20211206/Example1.java
- item16_20211206.Example1
- item16_20211206.Example1$PrivateInnerClass
- item16_20211206.PackagePrivateClass
-item10_20210501/TransitiveEx1.java
- item10_20210501.Color
- item10_20210501.ColorPoint
- item10_20210501.Point
- item10_20210501.TransitiveEx1
-item9_20210425/TryWithResourceEx2.java
- item9_20210425.TryWithResourceEx2
-item29_20211216/MyStack.java
- item29_20211216.MyStack
-item9_20210425/MyCloseableClass.java
- item9_20210425.MyCloseableClass
-item28_20211216/GenericChooser.java
- item28_20211216.GenericChooser
-item9_20210425/TryFinallyEx1.java
- item9_20210425.TryFinallyEx1
-item28_20211216/GenericChooser2.java
- item28_20211216.GenericChooser2
-item26_20211215/GenericEx3.java
- item26_20211215.GenericEx3
 item13_20211203/CloneExample2.java
  item13_20211203.Account
  item13_20211203.AdminAccount
@@ -198,11 +109,6 @@ item25_20211214/Main.java
  item25_20211214.Dessert
  item25_20211214.Main
  item25_20211214.Utensil
-item10_20210501/Person.java
- item10_20210501.Person
-item1_20210417/StaticFactoryMethodEx2.java
- item1_20210417.MyClass
- item1_20210417.StaticFactoryMethodEx2
 item22_20211212/PhysicalConstants.java
  item22_20211212.PhysicalConstants
 item24_20211214/AnonymousClassEx.java
@@ -210,8 +116,6 @@ item24_20211214/AnonymousClassEx.java
  item24_20211214.MyInterface
  item24_20211214.RootClass2
  item24_20211214.RootClass2$1
-item19_20211209/Super.java
- item19_20211209.Super
 item3_20210419/MyClass4.java
  item3_20210419.MyClass4
 item15_20211205/package2/PublicClass.java
@@ -234,8 +138,6 @@ item24_20211214/NonStaticClassEx.java
  item24_20211214.NonStaticClassEx
 item3_20210419/MyClass.java
  item3_20210419.MyClass
-item16_20211206/Point.java
- item16_20211206.Point
 item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
 item30_20211217/UnaryOperatorFactory.java
