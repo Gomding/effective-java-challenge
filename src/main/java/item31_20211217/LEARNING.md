@@ -1,4 +1,4 @@
-# 아이템31. 한정적 와일드카드를 사용해 API 유연성을 높이라
+=# 아이템31. 한정적 와일드카드를 사용해 API 유연성을 높이라
 
 매개변수화 타입은 불공변(invariant)이다.
 
@@ -283,7 +283,3 @@ swapHelper 메서드는 리스트가 ```List<E>```임을 알고 있다.
 
 **PECS**공식을 기억하자.   
 즉, 생성자(producer)는 extends를 소비자(consumer)는 super를 사용한다. Comparable과 Comparator는 모두 소비자라는 사실도 잊지 말자.
-
-
-
-
