@@ -49,6 +49,8 @@ item2_20210418/BuilderPatternEx2.java
  item2_20210418.Pizza
  item2_20210418.Pizza$Builder
  item2_20210418.Pizza$Topping
+item34_20211225/WeightTable.java
+ item34_20211225.WeightTable
 item11_20211130/ExampleWithHashCode.java
  item11_20211130.ExampleWithHashCode
  item11_20211130.PhoneNumber2
@@ -56,6 +58,8 @@ item3_20210419/MyClass3.java
  item3_20210419.MyClass3
 item6_20210422/AntiPatternEx3.java
  item6_20210422.AntiPatternEx3
+item34_20211225/Planet.java
+ item34_20211225.Planet
 item14_20211204/ComparableExample.java
  item14_20211204.ComparableExample
 item16_20211206/Point2.java
@@ -133,6 +137,8 @@ item5_20210422/DependencyObjectInjectionEx2.java
  item5_20210422.SpellChecker
  item5_20210422.SpellChecker2
  item5_20210422.SpellRespository
+item33_20211224/Example1.java
+ item33_20211224.Example1
 item22_20211212/TvRemoteControl.java
  item22_20211212.TvRemoteControl
 item10_20210501/CanonicalFormEx.java
@@ -141,8 +147,8 @@ item10_20210501/CanonicalFormEx.java
  item10_20210501.CaseInsenstiveStringEx2
 item6_20210422/GoodPatternEx4.java
  item6_20210422.GoodPatternEx4
-item30_20211217/UnaryOperatorFactory.java
- item30_20211217.UnaryOperatorFactory
+item32_20211223/HeapPollutionEx2.java
+ item32_20211223.HeapPollutionEx2
 item17_20211207/Money.java
  item17_20211207.Money
 item1_20210417/StaticFactoryMethodEx1.java
@@ -244,5 +250,7 @@ item16_20211206/Point.java
  item16_20211206.Point
 item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
-item32_20211223/HeapPollutionEx2.java
- item32_20211223.HeapPollutionEx2
+item30_20211217/UnaryOperatorFactory.java
+ item30_20211217.UnaryOperatorFactory
+item33_20211224/Favorites.java
+ item33_20211224.Favorites

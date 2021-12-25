@@ -108,3 +108,66 @@ cast 메서드는 형변환 연산자의 동적 버전이다.
 
 > 클라이언트 코드가 깔끔히 컴파일된다면 getFavorite이 호출하는 cast는 ClassCastException을 던지지 않을 것임을 우리는 알고 있다.   
 > favorites 맵 안의 값은 해당 키의 타입과 항상 일치함을 알고 있다.
+
+### Favorites 클래스에 알아두어야 할 제약 두 가지
+
+#### 첫 번째 제약. 악의적인 클라이언트가 Class 객체를 (제네릭이 아닌) Raw Type(아이템26)으로 넘기면 Favorites 인스턴스의 타입 안전성이 쉽게 깨진다.
+
+클라이언트가 아래처럼 코드를 짜면 putFavorite을 호출할 때는 아무 문제가 없다가 getFavorite를 호출하는 순간 ClassCastException이 발생한다.
+(컴파일 타임에 비검사 경고가 뜨긴 한다.)
+
+```java
+public static void main(String[] args) {
+    Favorities f = new Favorities();
+    
+    f.putFavorite((Class)Integer.class, "Integer의 인스턴스가 아닙니다.");
+    int favoriteInteger = f.getFavorite(Integer.class);
+}
+```
+
+HashSet, HashMap 등의 일반 컬렉션 구현체에도 똑같은 문제가 있다.   
+HashSet의 Raw Type을 사용하면 ```HashSet<Integer>```에 String을 넣는 건 쉬운 일이다.
+
+아래 코드는 컴파일도 되고 동작도 한다.
+```java
+HashSet<Integer> set = new HashSet<>();
+((HashSet)set).add("문자열입니다.");
+```
+
+하지만 이 정도의 문제를 감수한다면 런타임 타입 안전성을 얻을 수 있다.
+
+Favorites 가 타입 불변식을 어기는 일이 없도록 보장하려면 putFavorite 메서드에서 인수로 주어진 instance의 타입이 type으로 명시한 타입과 같은지 확인하면 된다.   
+다음과 같이 동적 형변환을 쓰면 된다.
+
+```java
+public <T> void putFavorite(Class<T> type, T instance) {
+    favorites.put(Objects.requireNonNull(Type), type.cast(instance));
+}
+```
+
+java.util.Collections에는 checkedSet, checkedList, checkedMap 같은 메서드가 있는데, 바로 위 예시의 방식을 적용한 컬렉션 래퍼들이다.
+
+```java
+// CheckedCollection의 내부 add 메서드의 구현
+public boolean add(E e) { 
+    return c.add(typeCheck(e));
+}
+
+E typeCheck(Object o) {
+    if (o != null && !type.isInstance(o))
+        throw new ClassCastException(badElementMsg(o));
+    return (E) o;
+}
+```
+
+이 래퍼들은 제네릭과 Raw Type을 섞어 사용하는 애플리케이션에서 클라이언트 코드가 컬렉션에 잘못된 타입의 원소를 넣지 못하게 추적하는 데 도움을 준다.
+
+#### 두 번째 제약. 실체화 불가 타입에는 사용할 수 없다.
+
+즐겨 찾는 String 이나 String[]은 저장할 수 있지만   
+```List<String>```은 저장할 수 없다. 해당 타입을 저장하려는 코드는 컴파일 되지 않는다.
+
+```List<String>.class```라고 쓰면 문법 오류가 난다.
+
+만약 ```List<String>.class 와 List<Integer>.class```를 허용해서 둘 다 똑같은 타입의 객체 참조를 반환한다면 Favorties 객체의 내부는 아수라장이 된다.
+
