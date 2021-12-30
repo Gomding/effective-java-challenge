@@ -302,5 +302,20 @@ item37_20211228/Phase2.java
 item37_20211228/Phase.java
  item37_20211228.Phase
  item37_20211228.Phase$Transition
+item38_20211230/TypeSafeEnumPatternEx1.java
+ item38_20211230.Operation
+ item38_20211230.Operation$1
+ item38_20211230.Operation$2
+ item38_20211230.Operation$3
+ item38_20211230.Operation$4
+ item38_20211230.TypeSafeEnumPatternEx1
 item37_20211228/Phase2Example1.java
  item37_20211228.Phase2Example1
+item38_20211230/OperationInterface.java
+ item38_20211230.OperationInterface
+item38_20211230/BasicOperation.java
+ item38_20211230.BasicOperation
+ item38_20211230.BasicOperation$1
+ item38_20211230.BasicOperation$2
+ item38_20211230.BasicOperation$3
+ item38_20211230.BasicOperation$4
