@@ -302,6 +302,18 @@ item37_20211228/Phase2.java
 item37_20211228/Phase.java
  item37_20211228.Phase
  item37_20211228.Phase$Transition
+item38_20211230/BasicOperation.java
+ item38_20211230.BasicOperation
+ item38_20211230.BasicOperation$1
+ item38_20211230.BasicOperation$2
+ item38_20211230.BasicOperation$3
+ item38_20211230.BasicOperation$4
+item37_20211228/Phase2Example1.java
+ item37_20211228.Phase2Example1
+item38_20211230/OperationInterface.java
+ item38_20211230.OperationInterface
+item39_20220103/Sample.java
+ item39_20220103.Sample
 item38_20211230/TypeSafeEnumPatternEx1.java
  item38_20211230.Operation
  item38_20211230.Operation$1
@@ -309,13 +321,31 @@ item38_20211230/TypeSafeEnumPatternEx1.java
  item38_20211230.Operation$3
  item38_20211230.Operation$4
  item38_20211230.TypeSafeEnumPatternEx1
-item37_20211228/Phase2Example1.java
- item37_20211228.Phase2Example1
-item38_20211230/OperationInterface.java
- item38_20211230.OperationInterface
-item38_20211230/BasicOperation.java
- item38_20211230.BasicOperation
- item38_20211230.BasicOperation$1
- item38_20211230.BasicOperation$2
- item38_20211230.BasicOperation$3
- item38_20211230.BasicOperation$4
+item39_20220103/MyTest.java
+ item39_20220103.MyTest
+item38_20211230/ExtendedOperation.java
+ item38_20211230.ExtendedOperation
+ item38_20211230.ExtendedOperation$1
+ item38_20211230.ExtendedOperation$2
+item39_20220103/RunMyTests.java
+ item39_20220103.RunMyTests
+item39_20220103/ExceptionMyTest.java
+ item39_20220103.ExceptionMyTest
+item39_20220103/Sample2.java
+ item39_20220103.Sample2
+item39_20220103/RunMyTests2.java
+ item39_20220103.RunMyTests2
+item39_20220103/ExceptionMyTest2.java
+ item39_20220103.ExceptionMyTest2
+item39_20220103/Sample3.java
+ item39_20220103.Sample3
+item39_20220103/RunMyTests3.java
+ item39_20220103.RunMyTests3
+item39_20220103/RunMyTests4.java
+ item39_20220103.RunMyTests4
+item39_20220103/Sample4.java
+ item39_20220103.Sample4
+item39_20220103/ExceptionMyTest3.java
+ item39_20220103.ExceptionMyTest3
+item39_20220103/ExceptionMyTestContainer.java
+ item39_20220103.ExceptionMyTestContainer
