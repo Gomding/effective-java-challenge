@@ -1,5 +1,8 @@
 package item40_20220104;
 
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+
 public class BiGram2 {
     private final char first;
     private final char second;
