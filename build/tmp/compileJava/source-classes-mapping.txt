@@ -369,3 +369,13 @@ item44_20220107/TemplateMethodEx.java
 item44_20220107/LambdaEx.java
  item44_20220107.LambdaEx
  item44_20220107.LambdaInsteadTemplateMethod
+item44_20220107/EldestEntryRemovalFunction.java
+ item44_20220107.EldestEntryRemovalFunction
+item45_20220108/StreamEx.java
+ item45_20220108.StreamEx
+item45_20220108/Anagrams.java
+ item45_20220108.Anagrams
+item45_20220108/AnagramsStream.java
+ item45_20220108.AnagramsStream
+item45_20220108/AnagramsStream2.java
+ item45_20220108.AnagramsStream2
