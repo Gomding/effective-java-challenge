@@ -379,3 +379,23 @@ item45_20220108/AnagramsStream.java
  item45_20220108.AnagramsStream
 item45_20220108/AnagramsStream2.java
  item45_20220108.AnagramsStream2
+item45_20220108/StreamEx2.java
+ item45_20220108.StreamEx2
+ item45_20220108.StreamEx2$WordOldAndNew
+item45_20220108/CardDeck.java
+ item45_20220108.Card
+ item45_20220108.CardDeck
+ item45_20220108.Rank
+ item45_20220108.Suit
+item46_20220109/StreamEx3.java
+ item46_20220109.StreamEx3
+item46_20220109/StreamEx2.java
+ item46_20220109.StreamEx2
+item46_20220109/StreamEx.java
+ item46_20220109.StreamEx
+item46_20220109/StreamEx4.java
+ item46_20220109.StreamEx4
+item46_20220109/BestAlbumEx.java
+ item46_20220109.Album
+ item46_20220109.Artist
+ item46_20220109.BestAlbumEx
