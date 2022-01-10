@@ -22,6 +22,8 @@ item18_20211208/InstrumentedHashSet.java
  item18_20211208.InstrumentedHashSet
 item36_20211227/Text.java
  item36_20211227.Text
+item45_20220108/StreamEx.java
+ item45_20220108.StreamEx
 item2_20210418/BuilderPatternEx2.java
  item2_20210418.BuilderPatternEx2
  item2_20210418.CalzonePizza
@@ -117,6 +119,8 @@ item5_20210422/DependencyObjectInjectionEx2.java
  item5_20210422.SpellChecker
  item5_20210422.SpellChecker2
  item5_20210422.SpellRespository
+item37_20211228/GardenExample2.java
+ item37_20211228.GardenExample2
 item10_20210501/CanonicalFormEx.java
  item10_20210501.CanonicalFormEx
  item10_20210501.CaseInsenstiveStringEx1
@@ -136,8 +140,13 @@ item38_20211230/OperationInterface.java
  item38_20211230.OperationInterface
 item9_20210425/TryFinallyEx2.java
  item9_20210425.TryFinallyEx2
+item46_20220109/StreamEx.java
+ item46_20220109.StreamEx
 item4_20210420/PrivateConstructorEx1.java
  item4_20210420.PrivateConstructorEx1
+item45_20220108/StreamEx2.java
+ item45_20220108.StreamEx2
+ item45_20220108.StreamEx2$WordOldAndNew
 item29_20211216/MyStackGeneric.java
  item29_20211216.MyStackGeneric
 item5_20210422/DependencyObjectInjectionEx1.java
@@ -153,6 +162,9 @@ item39_20220103/ExceptionMyTestContainer.java
  item39_20220103.ExceptionMyTestContainer
 item28_20211216/GenericChooser.java
  item28_20211216.GenericChooser
+item44_20220107/LambdaEx.java
+ item44_20220107.LambdaEx
+ item44_20220107.LambdaInsteadTemplateMethod
 item28_20211216/GenericChooser2.java
  item28_20211216.GenericChooser2
 item13_20211203/CloneExample2.java
@@ -185,6 +197,8 @@ item34_20211225/Operation2.java
  item34_20211225.Operation2$4
 item6_20210422/GoodPatternEx3.java
  item6_20210422.GoodPatternEx3
+item44_20220107/EldestEntryRemovalFunction.java
+ item44_20220107.EldestEntryRemovalFunction
 item24_20211214/NonStaticClassEx.java
  item24_20211214.Account
  item24_20211214.Account$Money
@@ -195,6 +209,8 @@ item16_20211206/Point.java
  item16_20211206.Point
 item30_20211217/UnaryOperatorFactory.java
  item30_20211217.UnaryOperatorFactory
+item46_20220109/StreamEx3.java
+ item46_20220109.StreamEx3
 item33_20211224/Favorites.java
  item33_20211224.Favorites
 item39_20220103/RunMyTests2.java
@@ -219,8 +235,11 @@ item38_20211230/ExtendedOperation.java
  item38_20211230.ExtendedOperation
  item38_20211230.ExtendedOperation$1
  item38_20211230.ExtendedOperation$2
-item37_20211228/GardenExample2.java
- item37_20211228.GardenExample2
+item44_20220107/TemplateMethodEx.java
+ item44_20220107.TemplateChild1
+ item44_20220107.TemplateChild2
+ item44_20220107.TemplateMethodClass
+ item44_20220107.TemplateMethodEx
 item6_20210422/AntiPatternEx2.java
  item6_20210422.AntiPatternEx2
 item28_20211216/Example2.java
@@ -271,11 +290,21 @@ item39_20220103/Sample4.java
  item39_20220103.Sample4
 item13_20211203/CloneExample.java
  item13_20211203.CloneExample
+item46_20220109/StreamEx2.java
+ item46_20220109.StreamEx2
+item45_20220108/AnagramsStream2.java
+ item45_20220108.AnagramsStream2
 item15_20211205/Example2.java
  item15_20211205.Example2
  item15_20211205.Example2$StaticInnerClass
+item46_20220109/BestAlbumEx.java
+ item46_20220109.Album
+ item46_20220109.Artist
+ item46_20220109.BestAlbumEx
 item19_20211209/Sub.java
  item19_20211209.Sub
+item45_20220108/AnagramsStream.java
+ item45_20220108.AnagramsStream
 item2_20210418/JavaBeansPatternEx1.java
  item2_20210418.JavaBeansNutritionFacts
  item2_20210418.JavaBeansPatternEx1
@@ -291,6 +320,8 @@ item33_20211224/Example1.java
  item33_20211224.Example1
 item22_20211212/TvRemoteControl.java
  item22_20211212.TvRemoteControl
+item46_20220109/StreamEx4.java
+ item46_20220109.StreamEx4
 item6_20210422/GoodPatternEx4.java
  item6_20210422.GoodPatternEx4
 item34_20211225/Operation3.java
@@ -306,6 +337,8 @@ item37_20211228/Phase.java
  item37_20211228.Phase$Transition
 item39_20220103/RunMyTests3.java
  item39_20220103.RunMyTests3
+item45_20220108/Anagrams.java
+ item45_20220108.Anagrams
 item25_20211214/Test.java
  item25_20211214.Test
  item25_20211214.Test$Dessert
@@ -317,6 +350,11 @@ item13_20211203/CloneExample3.java
  item13_20211203.Stack
 item39_20220103/RunMyTests4.java
  item39_20220103.RunMyTests4
+item45_20220108/CardDeck.java
+ item45_20220108.Card
+ item45_20220108.CardDeck
+ item45_20220108.Rank
+ item45_20220108.Suit
 item16_20211206/Example1.java
  item16_20211206.Example1
  item16_20211206.Example1$PrivateInnerClass
@@ -361,41 +399,5 @@ item39_20220103/Sample2.java
  item39_20220103.Sample2
 item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
-item44_20220107/TemplateMethodEx.java
- item44_20220107.TemplateChild1
- item44_20220107.TemplateChild2
- item44_20220107.TemplateMethodClass
- item44_20220107.TemplateMethodEx
-item44_20220107/LambdaEx.java
- item44_20220107.LambdaEx
- item44_20220107.LambdaInsteadTemplateMethod
-item44_20220107/EldestEntryRemovalFunction.java
- item44_20220107.EldestEntryRemovalFunction
-item45_20220108/StreamEx.java
- item45_20220108.StreamEx
-item45_20220108/Anagrams.java
- item45_20220108.Anagrams
-item45_20220108/AnagramsStream.java
- item45_20220108.AnagramsStream
-item45_20220108/AnagramsStream2.java
- item45_20220108.AnagramsStream2
-item45_20220108/StreamEx2.java
- item45_20220108.StreamEx2
- item45_20220108.StreamEx2$WordOldAndNew
-item45_20220108/CardDeck.java
- item45_20220108.Card
- item45_20220108.CardDeck
- item45_20220108.Rank
- item45_20220108.Suit
-item46_20220109/StreamEx3.java
- item46_20220109.StreamEx3
-item46_20220109/StreamEx2.java
- item46_20220109.StreamEx2
-item46_20220109/StreamEx.java
- item46_20220109.StreamEx
-item46_20220109/StreamEx4.java
- item46_20220109.StreamEx4
-item46_20220109/BestAlbumEx.java
- item46_20220109.Album
- item46_20220109.Artist
- item46_20220109.BestAlbumEx
+item47_20220110/StreamIteratorEx.java
+ item47_20220110.StreamIteratorEx
