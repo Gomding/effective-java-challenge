@@ -401,3 +401,12 @@ item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
 item47_20220110/StreamIteratorEx.java
  item47_20220110.StreamIteratorEx
+item47_20220110/PowerSet.java
+ item47_20220110.PowerSet
+ item47_20220110.PowerSet$1
+item48_20220111/MersennEx.java
+ item48_20220111.MersennEx
+item47_20220110/IterableStreamEx.java
+ item47_20220110.IterableStreamEx
+item48_20220111/StreamParallelEx.java
+ item48_20220111.StreamParallelEx
