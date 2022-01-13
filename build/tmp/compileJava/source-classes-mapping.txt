@@ -410,3 +410,19 @@ item47_20220110/IterableStreamEx.java
  item47_20220110.IterableStreamEx
 item48_20220111/StreamParallelEx.java
  item48_20220111.StreamParallelEx
+item50_20220113/Period.java
+ item50_20220113.Period
+item49_20220112/PositiveNumberCalculator.java
+ item49_20220112.PositiveNumberCalculator
+item49_20220112/PositiveNumber.java
+ item49_20220112.PositiveNumber
+item50_20220113/PeriodEx.java
+ item50_20220113.PeriodEx
+item50_20220113/Period2.java
+ item50_20220113.Period2
+item50_20220113/Period3.java
+ item50_20220113.Period3
+item50_20220113/PeriodEx3.java
+ item50_20220113.PeriodEx3
+item50_20220113/PeriodEx2.java
+ item50_20220113.PeriodEx2
