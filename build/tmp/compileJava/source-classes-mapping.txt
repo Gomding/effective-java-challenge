@@ -426,3 +426,13 @@ item50_20220113/PeriodEx3.java
  item50_20220113.PeriodEx3
 item50_20220113/PeriodEx2.java
  item50_20220113.PeriodEx2
+item51_20220114/MethodNameExample.java
+ item51_20220114.Car
+ item51_20220114.MethodNameExample
+ item51_20220114.User
+item51_20220114/ConvenienceMethodExample.java
+ item51_20220114.Anagrams
+ item51_20220114.ConvenienceMethodExample
+item51_20220114/TooMuchArgumentEx.java
+ item51_20220114.Address
+ item51_20220114.TooMuchArgumentEx
