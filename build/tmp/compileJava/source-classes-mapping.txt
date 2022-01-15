@@ -436,3 +436,17 @@ item51_20220114/ConvenienceMethodExample.java
 item51_20220114/TooMuchArgumentEx.java
  item51_20220114.Address
  item51_20220114.TooMuchArgumentEx
+item51_20220114/LongMethodArgumentsListEx1.java
+ item51_20220114.Account
+ item51_20220114.Account2
+ item51_20220114.Account2$Address
+ item51_20220114.LongMethodArgumentsListEx1
+item52_20220115/CollectionClassifier.java
+ item52_20220115.CollectionClassifier
+item52_20220115/WineEx.java
+ item52_20220115.Champagne
+ item52_20220115.SparklingWine
+ item52_20220115.Wine
+ item52_20220115.WineEx
+item52_20220115/SetListEx.java
+ item52_20220115.SetListEx
