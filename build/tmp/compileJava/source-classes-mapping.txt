@@ -450,5 +450,29 @@ item52_20220115/WineEx.java
  item52_20220115.WineEx
 item52_20220115/SetListEx.java
  item52_20220115.SetListEx
+item54_20220117/ArrayEmptyExample.java
+ item54_20220117.ArrayEmptyExample
+ item54_20220117.Cheese4
+ item54_20220117.Cheeses4
+item54_20220117/ListEmptyExample.java
+ item54_20220117.Cheese2
+ item54_20220117.Cheeses2
+ item54_20220117.ListEmptyExample
+item56_20220119/OptionalEx.java
+ item56_20220119.OptionalEx
+item53_20220116/VarargsEx3.java
+ item53_20220116.VarargsEx3
 item53_20220116/VarargsEx.java
  item53_20220116.VarargsEx
+item54_20220117/ListNullExample.java
+ item54_20220117.Cheese
+ item54_20220117.Cheeses
+ item54_20220117.ListNullExample
+item54_20220117/ReturnEmptyListExample.java
+ item54_20220117.Cheese3
+ item54_20220117.Cheeses3
+ item54_20220117.ReturnEmptyListExample
+item56_20220119/ThrowExceptionEx.java
+ item56_20220119.ThrowExceptionEx
+item53_20220116/VarargsEx2.java
+ item53_20220116.VarargsEx2
