@@ -91,7 +91,7 @@ class Example {
 
 class Example {
     // 생성자를 선언했으므로 기본 생성자는 생성되지 않는다.
-    public Example {
+    public Example() {
         ...
     }
 }
