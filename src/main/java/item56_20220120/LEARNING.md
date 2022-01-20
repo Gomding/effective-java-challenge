@@ -206,7 +206,7 @@ E get(int index);
  */
 ```
 
-자바 11까지도 자바독 명령줄에서 -tag "implSpec:a:Implementation Requirements:" 스위치를 켜주지 않으면 @implSpec 태그를 무시해버린다.
+자바 11까지도 자바독 명령줄에서 ```-tag "implSpec:a:Implementation Requirements:"``` 스위치를 켜주지 않으면 @implSpec 태그를 무시해버린다.
 
 
 ### {@literal}
@@ -275,7 +275,7 @@ Math.PI: 원주율(pi)에 가장 가까운 double 값
 
 ```java
 /**
- * This method compiles with the {#index IEEE 754} standard
+ * This method compiles with the {@index IEEE 754} standard
  */
 ```
 
@@ -318,7 +318,7 @@ public enum OrchestraSection {
 ```
 
 애너테이션 타입을 문서화할 때는 멤버들에도 모두 주석을 달아야 한다.   
-애너테이션 타입 자체도 물론이다. 필드 설명은 문사구로 한다.   
+애너테이션 타입 자체도 물론이다. 필드 설명은 명사구로 한다.   
 애너테이션 타입의 요약 설명은 이 애너테이션을 사용하는 것이 어떤 의미인지를 설명하는 동사구로 한다.
 
 ```java
@@ -351,7 +351,7 @@ public @interface ExceptionTest {
 자바 9부터 지원하는 모듈 시스템도 이와 비슷하다.   
 모듈 시스템을 사용한다면 모듈 관련 설명은 module-info.java 파일에 작성하면 된다.
 
-### 스레드 안전성과 직성화 가능성을 API 문서화에 포함시키자
+### 스레드 안전성과 직렬화 가능성을 API 문서화에 포함시키자
 
 클래스 혹은 정적 메서드가 스레드 안전하든 그렇지 않든, 스레드 안전 수준을 반드시 API 설명에 포함해야 한다.(아이템 82)   
 직렬화 가능한 클래스라면 직렬화 형태도 API 설명에 기술해야 한다. (아이템 87)

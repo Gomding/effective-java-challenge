@@ -1,5 +1,7 @@
 package item55_20220119;
 
+import java.io.Serializable;
+import java.math.BigInteger;
 import java.util.Collection;
 import java.util.Objects;
 
@@ -15,7 +17,7 @@ public class ThrowExceptionEx {
                 result = Objects.requireNonNull(e);
             }
         }
-
+        Serializable
         return result;
     }
 }
