@@ -5,9 +5,15 @@ item2_20210418/BuilderPatternEx1.java
  item2_20210418.BuilderNutritionFacts$1
  item2_20210418.BuilderNutritionFacts$Builder
  item2_20210418.BuilderPatternEx1
+item54_20220117/ArrayEmptyExample.java
+ item54_20220117.ArrayEmptyExample
+ item54_20220117.Cheese4
+ item54_20220117.Cheeses4
 item34_20211225/PayrollDay.java
  item34_20211225.PayrollDay
  item34_20211225.PayrollDay$1
+item56_20220120/SomeClass.java
+ item56_20220120.SomeClass
 item26_20211215/GenericEx2.java
  item26_20211215.GenericEx2
 item31_20211217/MyStack.java
@@ -18,6 +24,8 @@ Item12_20211202/PhoneNumber.java
  Item12_20211202.ToStringWithFormat
 item26_20211215/WildCardEx1.java
  item26_20211215.WildCardEx1
+item53_20220116/VarargsEx.java
+ item53_20220116.VarargsEx
 item18_20211208/InstrumentedHashSet.java
  item18_20211208.InstrumentedHashSet
 item36_20211227/Text.java
@@ -56,6 +64,8 @@ item37_20211228/GardenExample4.java
  item37_20211228.GardenExample4
 item22_20211212/SamsungTvRemoteControl.java
  item22_20211212.SamsungTvRemoteControl
+item50_20220113/Period3.java
+ item50_20220113.Period3
 item27_20211215/UncheckedWarningEx.java
  item27_20211215.UncheckedWarningEx
 item26_20211215/WildCardEx2.java
@@ -71,15 +81,28 @@ item34_20211225/PayrollDay2.java
  item34_20211225.PayrollDay2$PayType
  item34_20211225.PayrollDay2$PayType$1
  item34_20211225.PayrollDay2$PayType$2
+item52_20220115/WineEx.java
+ item52_20220115.Champagne
+ item52_20220115.SparklingWine
+ item52_20220115.Wine
+ item52_20220115.WineEx
 item11_20211130/ExampleWithoutHashCode.java
  item11_20211130.ExampleWithoutHashCode
  item11_20211130.PhoneNumber
+item57_20220121/ForExample.java
+ item57_20220121.ForExample
+item52_20220115/SetListEx.java
+ item52_20220115.SetListEx
 item39_20220103/MyTest.java
  item39_20220103.MyTest
 item39_20220103/Sample.java
  item39_20220103.Sample
 item22_20211212/PhysicalConstantsEX1.java
  item22_20211212.PhysicalConstantsEX1
+item51_20220114/MethodNameExample.java
+ item51_20220114.Car
+ item51_20220114.MethodNameExample
+ item51_20220114.User
 item37_20211228/GardenExample3.java
  item37_20211228.GardenExample3
 item1_20210417/StaticFactoryMethodEx3.java
@@ -119,8 +142,10 @@ item5_20210422/DependencyObjectInjectionEx2.java
  item5_20210422.SpellChecker
  item5_20210422.SpellChecker2
  item5_20210422.SpellRespository
-item37_20211228/GardenExample2.java
- item37_20211228.GardenExample2
+item47_20220110/StreamIteratorEx.java
+ item47_20220110.StreamIteratorEx
+item53_20220116/VarargsEx2.java
+ item53_20220116.VarargsEx2
 item10_20210501/CanonicalFormEx.java
  item10_20210501.CanonicalFormEx
  item10_20210501.CaseInsenstiveStringEx1
@@ -129,10 +154,17 @@ item32_20211223/HeapPollutionEx2.java
  item32_20211223.HeapPollutionEx2
 item17_20211207/Money.java
  item17_20211207.Money
+item51_20220114/LongMethodArgumentsListEx1.java
+ item51_20220114.Account
+ item51_20220114.Account2
+ item51_20220114.Account2$Address
+ item51_20220114.LongMethodArgumentsListEx1
 item40_20220104/BiGram2.java
  item40_20220104.BiGram2
 item37_20211228/GardenExample1.java
  item37_20211228.GardenExample1
+item49_20220112/PositiveNumber.java
+ item49_20220112.PositiveNumber
 item36_20211227/Text2.java
  item36_20211227.Text2
  item36_20211227.Text2$Style
@@ -149,6 +181,10 @@ item45_20220108/StreamEx2.java
  item45_20220108.StreamEx2$WordOldAndNew
 item29_20211216/MyStackGeneric.java
  item29_20211216.MyStackGeneric
+item50_20220113/Period.java
+ item50_20220113.Period
+item55_20220119/ThrowExceptionEx.java
+ item55_20220119.ThrowExceptionEx
 item5_20210422/DependencyObjectInjectionEx1.java
  item5_20210422.DependencyObjectInjectionEx1
  item5_20210422.EnglishDictionary
@@ -156,15 +192,28 @@ item5_20210422/DependencyObjectInjectionEx1.java
  item5_20210422.Lexicon
  item5_20210422.SpellCheckTypeSingleton
  item5_20210422.SpellCheckTypeUtilClass
+item47_20220110/PowerSet.java
+ item47_20220110.PowerSet
+ item47_20220110.PowerSet$1
+item48_20220111/MersennEx.java
+ item48_20220111.MersennEx
 item30_20211217/UnionEx.java
  item30_20211217.UnionEx
+item58_20220122/Card.java
+ item58_20220122.Card
+ item58_20220122.Rank
+ item58_20220122.Suit
 item39_20220103/ExceptionMyTestContainer.java
  item39_20220103.ExceptionMyTestContainer
 item28_20211216/GenericChooser.java
  item28_20211216.GenericChooser
+item58_20220122/ForEachStatement.java
+ item58_20220122.ForEachStatement
 item44_20220107/LambdaEx.java
  item44_20220107.LambdaEx
  item44_20220107.LambdaInsteadTemplateMethod
+item58_20220122/CommonForStatement.java
+ item58_20220122.CommonForStatement
 item28_20211216/GenericChooser2.java
  item28_20211216.GenericChooser2
 item13_20211203/CloneExample2.java
@@ -182,6 +231,8 @@ item42_20220105/Operation.java
 item1_20210417/StaticFactoryMethodEx2.java
  item1_20210417.MyClass
  item1_20210417.StaticFactoryMethodEx2
+item58_20220122/CardEx2.java
+ item58_20220122.CardEx2
 item24_20211214/AnonymousClassEx.java
  item24_20211214.AnonymousClassEx
  item24_20211214.MyInterface
@@ -189,6 +240,8 @@ item24_20211214/AnonymousClassEx.java
  item24_20211214.RootClass2$1
 item3_20210419/MyClass4.java
  item3_20210419.MyClass4
+item53_20220116/VarargsEx3.java
+ item53_20220116.VarargsEx3
 item34_20211225/Operation2.java
  item34_20211225.Operation2
  item34_20211225.Operation2$1
@@ -203,20 +256,31 @@ item24_20211214/NonStaticClassEx.java
  item24_20211214.Account
  item24_20211214.Account$Money
  item24_20211214.NonStaticClassEx
+item49_20220112/PositiveNumberCalculator.java
+ item49_20220112.PositiveNumberCalculator
 item3_20210419/MyClass.java
  item3_20210419.MyClass
 item16_20211206/Point.java
  item16_20211206.Point
+item50_20220113/PeriodEx3.java
+ item50_20220113.PeriodEx3
 item30_20211217/UnaryOperatorFactory.java
  item30_20211217.UnaryOperatorFactory
+item50_20220113/Period2.java
+ item50_20220113.Period2
 item46_20220109/StreamEx3.java
  item46_20220109.StreamEx3
 item33_20211224/Favorites.java
  item33_20211224.Favorites
 item39_20220103/RunMyTests2.java
  item39_20220103.RunMyTests2
+item58_20220122/IteratorRemoveEx.java
+ item58_20220122.IteratorRemoveEx
 item42_20220105/MyFunction.java
  item42_20220105.MyFunction
+item51_20220114/TooMuchArgumentEx.java
+ item51_20220114.Address
+ item51_20220114.TooMuchArgumentEx
 item30_20211217/UnionGenericEx.java
  item30_20211217.UnionGenericEx
 item6_20210422/GoodPatternEx1.java
@@ -229,12 +293,26 @@ item18_20211208/ExtendsExample.java
  item18_20211208.ExtendsExample
 item17_20211207/Money2.java
  item17_20211207.Money2
+item54_20220117/ListEmptyExample.java
+ item54_20220117.Cheese2
+ item54_20220117.Cheeses2
+ item54_20220117.ListEmptyExample
+item56_20220120/package-info.java
+ item56_20220120.package-info
 item39_20220103/ExceptionMyTest2.java
  item39_20220103.ExceptionMyTest2
+item57_20220121/WhileExample.java
+ item57_20220121.WhileExample
 item38_20211230/ExtendedOperation.java
  item38_20211230.ExtendedOperation
  item38_20211230.ExtendedOperation$1
  item38_20211230.ExtendedOperation$2
+item52_20220115/CollectionClassifier.java
+ item52_20220115.CollectionClassifier
+item54_20220117/ReturnEmptyListExample.java
+ item54_20220117.Cheese3
+ item54_20220117.Cheeses3
+ item54_20220117.ReturnEmptyListExample
 item44_20220107/TemplateMethodEx.java
  item44_20220107.TemplateChild1
  item44_20220107.TemplateChild2
@@ -290,6 +368,8 @@ item39_20220103/Sample4.java
  item39_20220103.Sample4
 item13_20211203/CloneExample.java
  item13_20211203.CloneExample
+item47_20220110/IterableStreamEx.java
+ item47_20220110.IterableStreamEx
 item46_20220109/StreamEx2.java
  item46_20220109.StreamEx2
 item45_20220108/AnagramsStream2.java
@@ -297,12 +377,16 @@ item45_20220108/AnagramsStream2.java
 item15_20211205/Example2.java
  item15_20211205.Example2
  item15_20211205.Example2$StaticInnerClass
+item50_20220113/PeriodEx2.java
+ item50_20220113.PeriodEx2
 item46_20220109/BestAlbumEx.java
  item46_20220109.Album
  item46_20220109.Artist
  item46_20220109.BestAlbumEx
 item19_20211209/Sub.java
  item19_20211209.Sub
+item55_20220119/OptionalEx.java
+ item55_20220119.OptionalEx
 item45_20220108/AnagramsStream.java
  item45_20220108.AnagramsStream
 item2_20210418/JavaBeansPatternEx1.java
@@ -310,6 +394,8 @@ item2_20210418/JavaBeansPatternEx1.java
  item2_20210418.JavaBeansPatternEx1
 item37_20211228/Phase2Example1.java
  item37_20211228.Phase2Example1
+item58_20220122/CardEx.java
+ item58_20220122.CardEx
 item28_20211216/Example1.java
  item28_20211216.Example1
 item23_20211213/Figure2.java
@@ -330,6 +416,11 @@ item34_20211225/Operation3.java
  item34_20211225.Operation3$2
  item34_20211225.Operation3$3
  item34_20211225.Operation3$4
+item58_20220122/DiceEx.java
+ item58_20220122.DiceEx
+ item58_20220122.Face
+item58_20220122/CardEx3.java
+ item58_20220122.CardEx3
 item1_20210417/StaticFactoryMethodEx1.java
  item1_20210417.StaticFactoryMethodEx1
 item37_20211228/Phase.java
@@ -343,6 +434,8 @@ item25_20211214/Test.java
  item25_20211214.Test
  item25_20211214.Test$Dessert
  item25_20211214.Test$Utensil
+item48_20220111/StreamParallelEx.java
+ item48_20220111.StreamParallelEx
 item9_20210425/TryWithResourceEx1.java
  item9_20210425.TryWithResourceEx1
 item13_20211203/CloneExample3.java
@@ -366,10 +459,15 @@ item10_20210501/TransitiveEx1.java
  item10_20210501.TransitiveEx1
 item9_20210425/TryWithResourceEx2.java
  item9_20210425.TryWithResourceEx2
+item50_20220113/PeriodEx.java
+ item50_20220113.PeriodEx
 item29_20211216/MyStack.java
  item29_20211216.MyStack
 item9_20210425/MyCloseableClass.java
  item9_20210425.MyCloseableClass
+item51_20220114/ConvenienceMethodExample.java
+ item51_20220114.Anagrams
+ item51_20220114.ConvenienceMethodExample
 item9_20210425/TryFinallyEx1.java
  item9_20210425.TryFinallyEx1
 item40_20220104/BiGramClient.java
@@ -383,6 +481,10 @@ item19_20211209/Super.java
  item19_20211209.Super
 item15_20211205/package2/PublicClass.java
  item15_20211205.package2.PublicClass
+item54_20220117/ListNullExample.java
+ item54_20220117.Cheese
+ item54_20220117.Cheeses
+ item54_20220117.ListNullExample
 item22_20211212/PhysicalConstants2.java
  item22_20211212.PhysicalConstants2
 item24_20211214/NonStaticClassEx2.java
@@ -399,80 +501,9 @@ item39_20220103/Sample2.java
  item39_20220103.Sample2
 item15_20211205/package1/PackagePrivateClass.java
  item15_20211205.package1.PackagePrivateClass
-item47_20220110/StreamIteratorEx.java
- item47_20220110.StreamIteratorEx
-item47_20220110/PowerSet.java
- item47_20220110.PowerSet
- item47_20220110.PowerSet$1
-item48_20220111/MersennEx.java
- item48_20220111.MersennEx
-item47_20220110/IterableStreamEx.java
- item47_20220110.IterableStreamEx
-item48_20220111/StreamParallelEx.java
- item48_20220111.StreamParallelEx
-item50_20220113/Period.java
- item50_20220113.Period
-item49_20220112/PositiveNumberCalculator.java
- item49_20220112.PositiveNumberCalculator
-item49_20220112/PositiveNumber.java
- item49_20220112.PositiveNumber
-item50_20220113/PeriodEx.java
- item50_20220113.PeriodEx
-item50_20220113/Period2.java
- item50_20220113.Period2
-item50_20220113/Period3.java
- item50_20220113.Period3
-item50_20220113/PeriodEx3.java
- item50_20220113.PeriodEx3
-item50_20220113/PeriodEx2.java
- item50_20220113.PeriodEx2
-item51_20220114/MethodNameExample.java
- item51_20220114.Car
- item51_20220114.MethodNameExample
- item51_20220114.User
-item51_20220114/ConvenienceMethodExample.java
- item51_20220114.Anagrams
- item51_20220114.ConvenienceMethodExample
-item51_20220114/TooMuchArgumentEx.java
- item51_20220114.Address
- item51_20220114.TooMuchArgumentEx
-item51_20220114/LongMethodArgumentsListEx1.java
- item51_20220114.Account
- item51_20220114.Account2
- item51_20220114.Account2$Address
- item51_20220114.LongMethodArgumentsListEx1
-item52_20220115/CollectionClassifier.java
- item52_20220115.CollectionClassifier
-item52_20220115/WineEx.java
- item52_20220115.Champagne
- item52_20220115.SparklingWine
- item52_20220115.Wine
- item52_20220115.WineEx
-item52_20220115/SetListEx.java
- item52_20220115.SetListEx
-item54_20220117/ArrayEmptyExample.java
- item54_20220117.ArrayEmptyExample
- item54_20220117.Cheese4
- item54_20220117.Cheeses4
-item54_20220117/ListEmptyExample.java
- item54_20220117.Cheese2
- item54_20220117.Cheeses2
- item54_20220117.ListEmptyExample
-item56_20220119/OptionalEx.java
- item56_20220119.OptionalEx
-item53_20220116/VarargsEx3.java
- item53_20220116.VarargsEx3
-item53_20220116/VarargsEx.java
- item53_20220116.VarargsEx
-item54_20220117/ListNullExample.java
- item54_20220117.Cheese
- item54_20220117.Cheeses
- item54_20220117.ListNullExample
-item54_20220117/ReturnEmptyListExample.java
- item54_20220117.Cheese3
- item54_20220117.Cheeses3
- item54_20220117.ReturnEmptyListExample
-item56_20220119/ThrowExceptionEx.java
- item56_20220119.ThrowExceptionEx
-item53_20220116/VarargsEx2.java
- item53_20220116.VarargsEx2
+item37_20211228/GardenExample2.java
+ item37_20211228.GardenExample2
+item59_20220124/MyRandom.java
+ item59_20220124.MyRandom
+item59_20220124/ThreadLocalRandomEx.java
+ item59_20220124.ThreadLocalRandomEx
