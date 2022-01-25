@@ -507,3 +507,9 @@ item59_20220124/MyRandom.java
  item59_20220124.MyRandom
 item59_20220124/ThreadLocalRandomEx.java
  item59_20220124.ThreadLocalRandomEx
+item60_20220125/FloatDoubleEx.java
+ item60_20220125.FloatDoubleEx
+item60_20220125/BigDecimalEx.java
+ item60_20220125.BigDecimalEx
+item60_20220125/IntEx.java
+ item60_20220125.IntEx
