@@ -6,6 +6,7 @@ public class BigDecimalEx {
     private static final BigDecimal TEN_CENTS = new BigDecimal(".10");
 
     public static void main(String[] args) {
+
         int itemsBought = 0;
         BigDecimal funds = new BigDecimal("1.00");
         for (BigDecimal price = TEN_CENTS; funds.compareTo(price) >= 0; price = price.add(TEN_CENTS)) {

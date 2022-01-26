@@ -513,3 +513,17 @@ item60_20220125/BigDecimalEx.java
  item60_20220125.BigDecimalEx
 item60_20220125/IntEx.java
  item60_20220125.IntEx
+item61_20220126/IntegerEx.java
+ item61_20220126.IntegerEx
+item61_20220126/IntegerComparatorEx.java
+ item61_20220126.IntegerComparatorEx
+item61_20220126/IntegerValueOfEx.java
+ item61_20220126.IntegerValueOfEx
+item61_20220126/IntegerEqualsEx.java
+ item61_20220126.IntegerEqualsEx
+item61_20220126/Unbelievable.java
+ item61_20220126.Unbelievable
+item61_20220126/AutoBoxingEx.java
+ item61_20220126.AutoBoxingEx
+item61_20220126/IntegerNewEx.java
+ item61_20220126.IntegerNewEx
