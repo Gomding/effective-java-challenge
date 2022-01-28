@@ -523,7 +523,17 @@ item61_20220126/IntegerEqualsEx.java
  item61_20220126.IntegerEqualsEx
 item61_20220126/Unbelievable.java
  item61_20220126.Unbelievable
-item61_20220126/AutoBoxingEx.java
- item61_20220126.AutoBoxingEx
 item61_20220126/IntegerNewEx.java
  item61_20220126.IntegerNewEx
+item62_20220127/Example.java
+ item62_20220127.Example
+ item62_20220127.Example$CompoundKey
+item62_20220127/ThreadLocal2.java
+ item62_20220127.ThreadLocal2
+ item62_20220127.ThreadLocal2$Key
+item62_20220127/ThreadLocal.java
+ item62_20220127.ThreadLocal
+item61_20220126/AutoBoxingEx.java
+ item61_20220126.AutoBoxingEx
+item63_20220128/StringEx.java
+ item63_20220128.StringEx
