@@ -535,5 +535,11 @@ item62_20220127/ThreadLocal.java
  item62_20220127.ThreadLocal
 item61_20220126/AutoBoxingEx.java
  item61_20220126.AutoBoxingEx
+item63_20220128/ItemStatementEx2.java
+ item63_20220128.ItemStatementEx2
 item63_20220128/StringEx.java
  item63_20220128.StringEx
+item63_20220128/ItemStatementEx.java
+ item63_20220128.ItemStatementEx
+item65_20220130/SetEx1.java
+ item65_20220130.SetEx1
