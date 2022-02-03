@@ -543,3 +543,9 @@ item63_20220128/ItemStatementEx.java
  item63_20220128.ItemStatementEx
 item65_20220130/SetEx1.java
  item65_20220130.SetEx1
+item69_20220203/ExceptionEx1.java
+ item69_20220203.ExceptionEx1
+item69_20220203/ExceptionEx3.java
+ item69_20220203.ExceptionEx3
+item69_20220203/ExceptionEx2.java
+ item69_20220203.ExceptionEx2
