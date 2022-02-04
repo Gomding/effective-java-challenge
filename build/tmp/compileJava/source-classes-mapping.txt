@@ -549,3 +549,11 @@ item69_20220203/ExceptionEx3.java
  item69_20220203.ExceptionEx3
 item69_20220203/ExceptionEx2.java
  item69_20220203.ExceptionEx2
+item70_20220204/ExceptionEx1.java
+ item70_20220204.Car
+ item70_20220204.ExceptionEx1
+item70_20220204/ExceptionEx3.java
+ item70_20220204.ExceptionEx3
+ item70_20220204.MyThrowable
+item70_20220204/ExceptionEx2.java
+ item70_20220204.ExceptionEx2
